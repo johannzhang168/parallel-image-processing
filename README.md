@@ -1,5 +1,5 @@
 
-# Parallel Image Processing with OpenMPI
+# Parallel Image Processing with OpenMPI for CS151-04
 
 ## Features
 - Parallel image compression using OpenMPI and OpenCV.
